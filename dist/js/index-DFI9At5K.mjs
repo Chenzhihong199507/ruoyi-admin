@@ -1,0 +1,1 @@
+import{l as e}from"./bootstrap-CIlPtDbU.mjs";import{at as t,az as o}from"../jse/index-index-CulmqKVw.mjs";const s={},c={class:"size-full",src:"http://localhost:8800/snail-job"};function r(a,n){return t(),o("iframe",c)}const f=e(s,[["render",r]]);export{f as default};
