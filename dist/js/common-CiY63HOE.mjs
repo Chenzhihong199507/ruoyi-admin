@@ -1,1 +1,0 @@
-import{_ as u}from"./fallback.vue_vue_type_script_setup_true_lang-CMazGKC4.mjs";import{a9 as o,n as e}from"../jse/index-index-CulmqKVw.mjs";const s=o({name:"CommonSkeleton",setup(){return()=>e("div",{class:"flex h-[600px] w-full items-center justify-center"},[e(u,{description:"等待后端重构工作流后开发",status:"coming-soon",title:"等待开发"},null)])}});export{s as C};

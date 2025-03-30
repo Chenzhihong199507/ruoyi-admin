@@ -1,1 +1,0 @@
-import{C as e}from"./common-CiY63HOE.mjs";import{a9 as t,at as a,az as o,n,a8 as r}from"../jse/index-index-CulmqKVw.mjs";import"./fallback.vue_vue_type_script_setup_true_lang-CMazGKC4.mjs";import"./bootstrap-CIlPtDbU.mjs";import"./rotate-cw-gdMJED4-.mjs";const u=t({__name:"taskWaiting",setup(m){return(s,p)=>(a(),o("div",null,[n(r(e))]))}});export{u as default};

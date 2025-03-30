@@ -1,1 +1,0 @@
-import{C as e}from"./common-CiY63HOE.mjs";import{a9 as o,at as t,az as a,n,a8 as r}from"../jse/index-index-CulmqKVw.mjs";import"./fallback.vue_vue_type_script_setup_true_lang-CMazGKC4.mjs";import"./bootstrap-CIlPtDbU.mjs";import"./rotate-cw-gdMJED4-.mjs";const f=o({__name:"myDocument",setup(m){return(p,s)=>(t(),a("div",null,[n(r(e))]))}});export{f as default};
