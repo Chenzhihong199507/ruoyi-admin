@@ -25,7 +25,7 @@ COPY --from=builder /app/apps/web-antd/dist /usr/share/nginx/html
 
 COPY ./nginx.conf /etc/nginx/nginx.conf
 
-EXPOSE 5666
+EXPOSE 8080
 
 # start nginx
 CMD ["nginx", "-g", "daemon off;"]
